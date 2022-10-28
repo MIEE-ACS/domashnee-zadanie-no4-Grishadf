@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\bin\Debug\netcoreapp3.1\domashka_4.exe
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\bin\Debug\netcoreapp3.1\domashka_4.deps.json
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\bin\Debug\netcoreapp3.1\domashka_4.runtimeconfig.json
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\bin\Debug\netcoreapp3.1\domashka_4.runtimeconfig.dev.json
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\bin\Debug\netcoreapp3.1\domashka_4.dll
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\bin\Debug\netcoreapp3.1\domashka_4.pdb
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.AssemblyInfo.cs
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.dll
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.pdb
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\LAB_2\domashka_4\domashka_4\obj\Debug\netcoreapp3.1\domashka_4.genruntimeconfig.cache
